@@ -1,5 +1,5 @@
 package go_say_hello
 
-func SayHello() string {
-	return "HELLO WORD! smile:)"
+func SayHello(name string) string {
+	return "HELLO WORD! smile:)" + name
 }
