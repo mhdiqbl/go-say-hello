@@ -4,4 +4,6 @@ import "fmt"
 
 func SayHello() {
 	fmt.Println("Hello Word!")
+	fmt.Println("Hello Word!")
+	fmt.Println("Hello Word!")
 }
